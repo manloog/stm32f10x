@@ -1,0 +1,17 @@
+Dependencies for Project 'STM32F1xx', Target 'Target 1': (DO NOT MODIFY !)
+F (.\Start\startup_stm32f10x_md.s)(0x4D783CD2)(--cpu Cortex-M3 -g --apcs=interwork -I F:\YQ\GX\基于STM32和北斗定位的车内环境监测系统设计\project\RTE-I D:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.0.5\Device\Include-I D:\Keil_v5\ARM\CMSIS\Include--pd "__UVISION_VERSION SETA 514" --pd "STM32F10X_MD SETA 1"--list .\startup_stm32f10x_md.lst --xref -o .\startup_stm32f10x_md.o --depend .\startup_stm32f10x_md.d)
+F (.\Start\core_cm3.h)(0x4D523B58)()
+F (.\Start\core_cm3.c)(0x4C0C587E)(--c99 -c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I.\Start -I.\User-I F:\YQ\GX\基于STM32和北斗定位的车内环境监测系统设计\project\RTE-I D:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.0.5\Device\Include-I D:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="514" -DSTM32F10X_MD-o .\core_cm3.o --omf_browse .\core_cm3.crf --depend .\core_cm3.d)
+I (D:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5475F300)
+F (.\Start\stm32f10x.h)(0x4D783CB4)()
+F (.\Start\system_stm32f10x.c)(0x4D783CB0)(--c99 -c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I.\Start -I.\User-I F:\YQ\GX\基于STM32和北斗定位的车内环境监测系统设计\project\RTE-I D:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.0.5\Device\Include-I D:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="514" -DSTM32F10X_MD-o .\system_stm32f10x.o --omf_browse .\system_stm32f10x.crf --depend .\system_stm32f10x.d)
+I (Start\stm32f10x.h)(0x4D783CB4)
+I (Start\core_cm3.h)(0x4D523B58)
+I (D:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5475F300)
+I (Start\system_stm32f10x.h)(0x4D783CAA)
+F (.\Start\system_stm32f10x.h)(0x4D783CAA)()
+F (.\User\main.c)(0x65C0367E)(--c99 -c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I.\Start -I.\User-I F:\YQ\GX\基于STM32和北斗定位的车内环境监测系统设计\project\RTE-I D:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.0.5\Device\Include-I D:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="514" -DSTM32F10X_MD-o .\main.o --omf_browse .\main.crf --depend .\main.d)
+I (.\Start\stm32f10x.h)(0x4D783CB4)
+I (.\Start\core_cm3.h)(0x4D523B58)
+I (D:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5475F300)
+I (.\Start\system_stm32f10x.h)(0x4D783CAA)
